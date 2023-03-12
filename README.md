@@ -1,7 +1,7 @@
 # Interstellar-Dimension
 Interactive Visualizer made with Processing 4
 
-The geometric visuals are controlled by the user's mouse movement.
+After the player presses the spacebar, the screen turns into geometrical patterns which the user can control with their cursor. 
 
 To fully view the project, download the following files and put them in a "data" folder inside the project directory. 
 
