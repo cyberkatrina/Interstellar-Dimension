@@ -12,4 +12,6 @@ To fully run the project:
 
 [data.zip](https://github.com/cyberkatrina/Interstellar-Dimension/files/10952413/data.zip)
 
+<img width="1015" alt="Screenshot 2023-03-12 at 8 49 32 PM" src="https://user-images.githubusercontent.com/113384816/224590441-af2a82fd-2510-478a-9dc9-b5d21115741c.png">
+
 Music Credits: Flying Lotus - Zodiac Sh*t
