@@ -1,7 +1,7 @@
 # Interstellar-Dimension
 Interactive Visualizer made with Processing 4
 
-After the player presses the spacebar, the screen turns into geometrical patterns which the user can control with their cursor. 
+After the player presses the spacebar, the screen turns into geometrical patterns which the user can control with their cursor.
 
 To fully view the project:
 
@@ -12,3 +12,4 @@ To fully view the project:
 
 [data.zip](https://github.com/cyberkatrina/Interstellar-Dimension/files/10952413/data.zip)
 
+Music Credits: Flying Lotus - Zodiac Sh*t
