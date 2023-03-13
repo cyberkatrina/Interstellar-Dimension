@@ -3,7 +3,7 @@ Interactive Visualizer made with Processing 4.
 
 After the player presses the spacebar, the screen turns into geometrical patterns which the user can control with their cursor.
 
-To fully view the project:
+To fully run the project:
 
 1. Install the Processing Sound Library.
 2. Download the following files and put them in a "data" folder inside the project directory. 
